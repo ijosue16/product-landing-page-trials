@@ -1,2 +1,2 @@
 # product-landing-page-trials
- project
+>This is a project review i have done on the project of my friend and fellow microverse partner [eden] (https://github.com/edenlisk)
