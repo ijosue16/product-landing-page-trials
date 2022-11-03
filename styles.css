@@ -1,0 +1,16 @@
+#image{
+    text-align: center;
+    max-width:70%;
+    position: absolute;
+    top: 50%;
+    left: 0;
+    right: 0;
+    margin: auto;
+    transform: translateY(-50%);}
+
+
+#img-div{
+    width:68vw;
+    height:68vh;
+    position: relative; 
+}
